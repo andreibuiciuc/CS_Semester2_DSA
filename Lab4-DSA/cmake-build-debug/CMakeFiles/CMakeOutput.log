@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Programming/Visual Studio Community/VC/Tools/MSVC/14.26.28801/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.26.28806 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.26.28806.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/DSA/Lab4-DSA/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Programming/Visual Studio Community/VC/Tools/MSVC/14.26.28801/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.26.28806 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.26.28806.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/DSA/Lab4-DSA/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/DSA/Lab4-DSA/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_beedc\fast && 	"D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_beedc.dir\build.make /nologo -L                  CMakeFiles\cmTC_beedc.dir\build
+Building C object CMakeFiles/cmTC_beedc.dir/testCCompiler.c.obj
+	"D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\cl.exe" @C:\Users\Asus\AppData\Local\Temp\nm8FC4.tmp
+testCCompiler.c
+Linking C executable cmTC_beedc.exe
+	"D:\CLion\CLion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_beedc.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_beedc.dir\objects1.rsp @C:\Users\Asus\AppData\Local\Temp\nm9023.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/DSA/Lab4-DSA/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_88fbf\fast && 	"D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_88fbf.dir\build.make /nologo -L                  CMakeFiles\cmTC_88fbf.dir\build
+Building C object CMakeFiles/cmTC_88fbf.dir/CMakeCCompilerABI.c.obj
+	"D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\cl.exe" @C:\Users\Asus\AppData\Local\Temp\nm9226.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_88fbf.exe
+	"D:\CLion\CLion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_88fbf.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_88fbf.dir\objects1.rsp @C:\Users\Asus\AppData\Local\Temp\nm9275.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/DSA/Lab4-DSA/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_ce25f\fast && 	"D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_ce25f.dir\build.make /nologo -L                  CMakeFiles\cmTC_ce25f.dir\build
+Building CXX object CMakeFiles/cmTC_ce25f.dir/testCXXCompiler.cxx.obj
+	"D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\cl.exe" @C:\Users\Asus\AppData\Local\Temp\nm9468.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_ce25f.exe
+	"D:\CLion\CLion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_ce25f.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_ce25f.dir\objects1.rsp @C:\Users\Asus\AppData\Local\Temp\nm94D6.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/DSA/Lab4-DSA/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_917ca\fast && 	"D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_917ca.dir\build.make /nologo -L                  CMakeFiles\cmTC_917ca.dir\build
+Building CXX object CMakeFiles/cmTC_917ca.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\cl.exe" @C:\Users\Asus\AppData\Local\Temp\nm96B9.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_917ca.exe
+	"D:\CLion\CLion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_917ca.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Programming\Visual Studio Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_917ca.dir\objects1.rsp @C:\Users\Asus\AppData\Local\Temp\nm9718.tmp
+
+
+
